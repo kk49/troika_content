@@ -1,2 +1,2 @@
 # troika_content
-Contetnt for TROIKA!
+Content for TROIKA!
