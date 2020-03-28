@@ -1,0 +1,16 @@
+{
+  "Backgrounds": [
+    {
+      "Name": "Nik Nak Paddy Wak, Sr.",
+      "Text": "You are old beyond your years and are one less and one more than the ultimate mortal being.\nYeah it’s a lot to put on one person but tough.\nYou have no eyes but you can see.",
+      "Possessions": [
+        "Tooth Knife - made from the teeth of hundreds of sand leeches", 
+        "Desert Suit - While wearing this you only need to drink one thimble full of water per day. You generate one small solid brick per day",
+        "Cloak - Mysterious..."
+      ],
+      "Skills": ["3 Statecraft", "3 Unarmed Fighting", "2 Knife Fighting", "1 Leech Riding (Large)", "1 Anti-Prescience"],
+      "Special": "",
+      "Source": "<a href='https://github.com/kk49/troika_content'>kk49 content</a> by Krys Kamieniecki"
+    }
+  ]
+}
