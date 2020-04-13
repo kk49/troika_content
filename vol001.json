@@ -18,6 +18,25 @@
       ],
       "Special": "You have no eyes but you can see.",
       "Source": "<a href='https://github.com/kk49/troika_content'>kk49 content</a> by Krys Kamieniecki"
+    },
+    {
+      "Name": "Woman of the Apocalypse",
+      "Text": "Like, OMG, we got so wasted last night, I don't even know how I got this funny looking horse.",
+      "Possessions": [
+        "Seven Headed Mount",
+        "Ill Fitting Robes",
+        "1d6 Bottles of Vodka",
+        "A golden chalice - radiates a significant but useless level of light"
+      ],
+      "Skills": [
+        "3 Mathmology",
+        "3 Acrobatics",
+        "2 Drinking Alcohol",
+        "2 Knife Fighting",
+        "2 Creature Riding"
+      ],
+      "Special": "At the GMs discretion your presence on a sphere may bring about an Apocalypse",
+      "Source": "<a href='https://github.com/kk49/troika_content'>kk49 content</a> by Krys Kamieniecki, based on this <a href='https://www.youtube.com/watch?v=zJxCC7H6Vsw'>Video</a> and this <a href='http://wb.britishmuseum.org/MCN215#194283001'>Object</a>"
     }
   ]
 }
