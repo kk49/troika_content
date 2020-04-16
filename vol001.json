@@ -37,6 +37,24 @@
       ],
       "Special": "At the GMs discretion your presence on a sphere may bring about an Apocalypse",
       "Source": "<a href='https://github.com/kk49/troika_content'>kk49 content</a> by Krys Kamieniecki, based on this <a href='https://www.youtube.com/watch?v=zJxCC7H6Vsw'>Video</a> and this <a href='http://wb.britishmuseum.org/MCN215#194283001'>Object</a>"
+    },
+    {
+      "Name": "Calliope Dealer",
+      "Text": "'Like, OMG, we got so wasted last night, I don't even know how I got this funny looking horse.'",
+      "Possessions": [
+        "Portable Calliope",
+        "Bottomless Toolkit of Calliope Tools",
+        "Mallet",
+        "Clown repellent"
+      ],
+      "Skills": [
+        "3 Calliope Tuning/Repair",
+        "3 Play instrument (Calliope)",
+        "2 Machine repair",
+        "2 Mallet Fighting"
+      ],
+      "Special": "When playing Calliope roll vs skill to prevent clowns from gathering",
+      "Source": "<a href='https://github.com/kk49/troika_content'>kk49 content</a> by Krys Kamieniecki"
     }
   ]
 }
